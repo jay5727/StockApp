@@ -3,9 +3,9 @@ Stock App consisting of MVVM architecture using Compose UI + Test Cases
 
 
 # Holdings
-![1](https://github.com/jay5727/StockApp/assets/14356494/1a6ffc40-550f-454b-9d44-d1693353770a)
-![2](https://github.com/jay5727/StockApp/assets/14356494/65b1f5c9-dde9-4c36-aa1e-bb953bf76a68)
-![3](https://github.com/jay5727/StockApp/assets/14356494/dd4912f6-bfaf-47f6-b077-99ea1d49c366)
+<img width="365" alt="image" src = "https://github.com/jay5727/StockApp/assets/14356494/1a6ffc40-550f-454b-9d44-d1693353770a">
+<img width="365" alt="image" src = "https://github.com/jay5727/StockApp/assets/14356494/65b1f5c9-dde9-4c36-aa1e-bb953bf76a68">
+<img width="365" alt="image" src = "https://github.com/jay5727/StockApp/assets/14356494/dd4912f6-bfaf-47f6-b077-99ea1d49c366">
 
 ## Build info ##
 * Android Studio Koala | 2024.1.1
